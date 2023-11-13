@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Games/Bomberman2/Scenes/Menu.unity
+    guid: f9fc4620ccf9ccf4ba8e1d4e638ae511
+  - enabled: 1
+    path: Assets/Games/Bomberman2/Scenes/LevelMenu.unity
+    guid: b51a4b561722bde4c89b010638e6a5d1
+  - enabled: 1
+    path: Assets/Games/Bomberman2/Scenes/Level1.unity
+    guid: 53d14ed055a92f34f9c1a88b1786949b
+  - enabled: 1
+    path: Assets/Games/Bomberman2/Scenes/Level2.unity
+    guid: d68448ad3aa7cbd48bec33fe84746def
+  - enabled: 1
+    path: Assets/Games/Bomberman2/Scenes/Level3.unity
+    guid: 24ddc1a9e80db3a4d8b4e4c525c7f0d1
+  - enabled: 1
+    path: Assets/Games/Bomberman2/Scenes/Level8.unity
+    guid: b4453b4f1381c8b48b678d4e0e130013
+  - enabled: 1
+    path: Assets/Games/Bomberman2/Scenes/Bomberman.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
